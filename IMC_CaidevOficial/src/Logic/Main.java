@@ -50,7 +50,7 @@ public class Main {
 	if (height > 0) {
 	    DecimalFormat df = new DecimalFormat("#,###.00");
 	    @SuppressWarnings("deprecation")
-	    double imc = new Double(df.format((weigth) / Math.sqrt(height))).doubleValue();
+	    double imc = new Double(df.format(((weigth) / Math.pow(height, 2)))).doubleValue();
 	    return imc;
 	}
 
