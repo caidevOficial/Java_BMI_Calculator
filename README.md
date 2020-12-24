@@ -1,5 +1,5 @@
-# Java Swing - BMI Calculator.
-<a href="https://github.com/caidevOficial/tp_laboratorio_1">
+# Java Swing - BMI Calculator [Calculador de IMC].
+<a href="https://github.com/caidevOficial/IMC_Calculator">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=caidevOficial&show_icons=true&theme=tokyonight&count_private=true" />
 </a></br></br>
 
