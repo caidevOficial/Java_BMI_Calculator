@@ -1,3 +1,10 @@
+
+![](https://hit.yhype.me/github/profile?user_id=12877139)
+
+<p align="center">
+    <img src="https://komarev.com/ghpvc/?username=caidevoficial&label=Profile%20views&color=0e75b6&style=plastic" alt="caidevoficial" />
+</p>
+
 # Java Swing - BMI Calculator [Calculador de IMC].
 <a href="https://github.com/caidevOficial/IMC_Calculator">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=caidevOficial&show_icons=true&theme=tokyonight&count_private=true" />
